@@ -1,0 +1,101 @@
+body {
+    background-color: #BCE2DC;
+    font-family: 'Helvetica', Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+#logo {
+    width: 100px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    color: #2E1437;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 30px;
+    color: #2E1437;
+}
+
+#input_listName {
+    width: 500px;
+    height: 40px;
+    padding: 5px 40px 5px 10px;
+    font-size: 20px;
+    color: #2E1437;
+    border: none;
+    background-color: #FCFDE6;
+    display: block;
+    margin: 0 auto;
+}
+
+#input_listName:focus {
+    outline: none;
+}
+
+::-webkit-input-placeholder {
+    color: #2E1437;
+    font-size: 14px;
+    text-align: center;
+    font-style: italic;
+    font-weight: 100;
+    opacity: 0.4;
+}
+
+.ul_current {
+    margin: auto;
+    text-align: center;
+    list-style: none;
+    padding-left: 0;
+    width: 550px;
+    margin-top: 20px;
+}
+
+.ul_current li {
+    font-size: 24px;
+    background-color: #DBEFE5;
+    color: #2E1437;
+    border-radius: 7px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+#btn_pickFromList {
+    padding: 10px 30px;
+    position: relative;
+    top: 30px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #4B1248;
+    opacity: 0.8;
+    border-bottom: 2px solid #000;
+}
+
+#btn_pickFromList:hover {
+    opacity: 0.9;
+}
+
+#btn_pickFromList:active {
+    top: 32px;
+    opacity: 1;
+    border: none;
+}
+
+.result-container {
+    text-align: center;
+}
+
+#display-result {
+    margin-top: 60px;
+    font-size: 30px;
+}
+
+.winner {
+    color: red;
+    font-size: 50px !important;
+
+}

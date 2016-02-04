@@ -1,0 +1,25 @@
+{
+  "Projects": {
+    "Task Management Application": {
+      "description": "A realtime task manager application"
+    },
+    "War Card Game": {
+      "description": "Player versus AI war card game"
+    },
+    "Scheduling application": {
+      "description": "School classes schedule application"
+    },
+    "Sudoku solver": {
+      "description": "A script that can resolve any type of Sudoku"
+    },
+    "Wallet app": {
+      "description": "An application in which you keep track of your expenses"
+    },
+    "Japanese-English/English-Japanese dictionary ": {
+      "description": "Simple mobile dictionary app that will use Jim Breen's WWWJDIC"
+    },
+    "Pomodoro technique app": {
+      "description": "Time management application"
+    }
+  }
+}
