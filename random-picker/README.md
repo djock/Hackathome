@@ -10,4 +10,3 @@ It can be used as an Chrome extension by following these steps:
 5. Browse to the location of the 'random-picker', select it and click OK
 
 It should now be added as an extension to your browser. 
-An online version can be found at [hackathome.eu](http://www.hackathome.eu/)
